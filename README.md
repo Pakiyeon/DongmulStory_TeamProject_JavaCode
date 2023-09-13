@@ -18,7 +18,7 @@
 - 서버 : Spring Boot (apache 2.0 - tomcat 10.1.10)
 - DB : MySQL 8.0 CE
 - API, 라이브러리 : JDBC, Jquery, Json, Lombok, Maven, PageHelper
-- FrameWork : MyBatis 3.0 , Spring Boot 3.1.1
+- FrameWork : Spring Boot 3.1.1
 
 ### Video link
 - https://youtu.be/odW0-RGP9fM
