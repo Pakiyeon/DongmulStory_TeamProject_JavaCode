@@ -10,3 +10,9 @@
 
 ### Where?
 - Ezen computer academy
+
+### Tools
+- 
+
+### Video link
+- https://youtu.be/odW0-RGP9fM
