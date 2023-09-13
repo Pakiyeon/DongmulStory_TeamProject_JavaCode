@@ -15,7 +15,7 @@
 - OS : Window
 - 언어 : Java(jdk-17), Jsp, Css, JavaScript
 - IDE : Eclipse
-- 서버 : Spring Boot(apache tomcat 2.0)
+- 서버 : Spring Boot 3.1.1 (apache 2.0 - tomcat 10.1.10)
 - DB : MySQL 8.0 CE
 - FrameWork : MyBatis 3.0 , Spring Boot 3.1.1
 
