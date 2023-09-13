@@ -1,12 +1,12 @@
 # DongmulStory_TeamProject_JavaCode
 
-### What
+### What?
 - Pet Products Shop
 - 5 types of animals
 - 6 types of products
 
-### When
+### When?
 - 2023.07. ~ 2023.09.
 
-### Where
+### Where?
 - Ezen computer academy
